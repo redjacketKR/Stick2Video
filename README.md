@@ -1,6 +1,6 @@
 # Stick2Video
 
-![Screenshot of Stick2Video app](https://github.com/redjacketKR/Stick2Video/raw/main/app_screenshot.png)
+![Screenshot of Stick2Video app](https://github.com/redjacketKR/Stick2Video/raw/main/Stick2Video_vFtLRvsMsY.png)
 
 Stick Movement to Video Generator v1.0 - RC1
 
