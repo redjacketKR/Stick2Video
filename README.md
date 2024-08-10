@@ -9,8 +9,6 @@ Stick Movement to Video Generator v1.0 - RC1
 
 # Stick2Video
 
-![Stick2Video Logo](placeholder_for_your_logo.png)
-
 ## Seamlessly Integrate Stick Figure Animations into Your Videos
 
 Stick2Video is an innovative software solution that allows you to effortlessly combine stick figure animations with your main video content. Perfect for creators looking to add a unique, engaging element to their videos!
