@@ -36,7 +36,7 @@ Several significant improvements have been made to the Stick2Video application. 
       
 These improvements have significantly enhanced the functionality, performance, and user experience of the Stick2Video application. The integration of FFmpeg, in particular, has greatly improved the video encoding capabilities, while the expanded codec support provides users with more flexibility in output formats. The enhanced error handling and logging will make troubleshooting easier, and the optimized processing should result in faster video generation, especially for longer flight logs.
 
-Stick Trail has to be corrected -- brocken chain due to engine replacement and image handling changed significantly.
+Stick Trail has to be corrected -- broken chain due to engine replacement and image handling changed significantly.
 
 
 
