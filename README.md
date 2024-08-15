@@ -1,6 +1,6 @@
 # Stick2Video
 
-![Screenshot of Stick2Video app](https://github.com/redjacketKR/Stick2Video/raw/main/Stick2Video_vFtLRvsMsY.png)
+![Screenshot of Stick2Video app](https://github.com/redjacketKR/Stick2Video/raw/main/python_BtIsA0U0Zx.png)
 
 
 # Summary of Stick2Video Improvements
